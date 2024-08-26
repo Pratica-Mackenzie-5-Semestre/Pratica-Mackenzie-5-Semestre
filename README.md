@@ -33,9 +33,9 @@ O objetivo deste projeto é desenvolver uma aplicação completa que demonstre o
 
 ## Tecnologias Utilizadas
 
-- Python:
+- Linguaguem de programação: Python
 - Frameworks: 
-- Banco de Dados: 
+- Banco de Dados: SQL
 - Ferramentas de Versionamento:
 
 
