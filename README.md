@@ -24,6 +24,7 @@ Bem-vindo ao repositório do **Projeto de Prática Profissional em Análise e De
 ## Professor Orientador
 
 - **Pedro Henrique Cacique Braga**
+- **Cristiano Moraes de Sousa**
 
 
 ## Objetivo do Projeto
