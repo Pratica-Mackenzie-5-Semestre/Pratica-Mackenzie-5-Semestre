@@ -29,12 +29,12 @@ Bem-vindo ao repositório do **Projeto de Prática Profissional em Análise e De
 
 ## Objetivo do Projeto
 
-O objetivo deste projeto é desenvolver uma aplicação completa que demonstre o ciclo de vida de desenvolvimento de software, integrando todas as etapas desde a análise de requisitos até a implementação e teste final.
+Este projeto visa desenvolver um sistema de gerenciamento de finanças pessoais que permita aos usuários controlar suas receitas, despesas, investimentos e economias de forma eficiente. O sistema será construído utilizando a linguagem de programação Python e o banco de dados MySQL para armazenamento e manipulação dos dados financeiros dos usuários
 
 ## Tecnologias Utilizadas
 
 - Linguaguem de programação: Python
-- Frameworks: 
+- Frameworks: jungle
 - Banco de Dados: SQL
 - Ferramentas de Versionamento:
 
