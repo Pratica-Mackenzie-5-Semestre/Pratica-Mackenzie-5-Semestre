@@ -37,6 +37,7 @@ Este projeto visa desenvolver um sistema de gerenciamento de finanças pessoais 
 - Flask ou Django: Para o desenvolvimento de uma interface web (se aplicável).
 - Pandas e Matplotlib: Para manipulação de dados e geração de gráficos.
 - bcrypt: Para criptografia de senhas.
+- Lucidchart: para o diagrama de casos de uso.
 
 
 
