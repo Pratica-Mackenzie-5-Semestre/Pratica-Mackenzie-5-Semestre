@@ -6,16 +6,19 @@ Bem-vindo ao repositório do **Projeto de Prática Profissional em Análise e De
 
 ## Integrantes do Projeto
 
-1. **Nome do Integrante 1**  
+1. **Leonardo Piauilino Marques**  
   
 
-2. **Nome do Integrante 2**  
+2. **Petrucio Alberto P. De Lima**  
   
 
-3. **Nome do Integrante 3**  
+3. **Bruno Brandão Costa Silva**  
   
 
-4. **Nome do Integrante 4**  
+4. **Gabriel de Almeida Moraes**
+
+
+5. **Alexia Gonçalves da Silva**
   
 
 ## Professor Orientador
