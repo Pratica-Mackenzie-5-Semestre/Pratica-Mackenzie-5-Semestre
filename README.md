@@ -33,10 +33,10 @@ Este projeto visa desenvolver um sistema de gerenciamento de finanças pessoais 
 
 ## Tecnologias Utilizadas
 
-- Linguaguem de programação: Python
-- Frameworks: jungle
-- Banco de Dados: SQL
-- Ferramentas de Versionamento:
+- MySQL Connector/Python: Para integração com o banco de dados MySQL.
+- Flask ou Django: Para o desenvolvimento de uma interface web (se aplicável).
+- Pandas e Matplotlib: Para manipulação de dados e geração de gráficos.
+- bcrypt: Para criptografia de senhas.
 
 
 
