@@ -2,6 +2,15 @@
 
 Bem-vindo ao repositório do **Projeto de Prática Profissional em Análise e Desenvolvimento de Sistemas (ADS)**! Este projeto foi desenvolvido como parte do curso de ADS para aplicar conhecimentos teóricos em um ambiente prático.
 
+## Links Importantes
+
+1. [Nome do Link 1](URL_DO_LINK_1)
+2. [Nome do Link 2](URL_DO_LINK_2)
+3. [Nome do Link 3](URL_DO_LINK_3)
+4. [Nome do Link 4](URL_DO_LINK_4)
+5. [Nome do Link 5](URL_DO_LINK_5)
+
+
 ## Nome do Grupo: Planejamento Financeiro Sólido
 
 ## Integrantes do Projeto
