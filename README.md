@@ -4,12 +4,8 @@ Bem-vindo ao repositório do **Projeto de Prática Profissional em Análise e De
 
 ## Links Importantes
 
-1. [Nome do Link 1](URL_DO_LINK_1)
-2. [Nome do Link 2](URL_DO_LINK_2)
-3. [Nome do Link 3](URL_DO_LINK_3)
-4. [Nome do Link 4](URL_DO_LINK_4)
-5. [Nome do Link 5](URL_DO_LINK_5)
-
+1. [Github](https://github.com/Pratica-Mackenzie-5-Semestre) 
+2. [Trello](https://trello.com/invite/b/66c12be448894743f8f64eb1/ATTI9e91298438963e1ea46b1813a7330893936BDA68/meu-quadro-do-trello)  
 
 ## Nome do Grupo: Planejamento Financeiro Sólido
 
