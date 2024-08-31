@@ -11,19 +11,16 @@ Bem-vindo ao repositório do **Projeto de Prática Profissional em Análise e De
 
 ## Integrantes do Projeto
 
-1. **Leonardo Piauilino Marques**  
-  
+1. **Alexia Gonçalves da Silva**  
 
-2. **Petrucio Alberto P. De Lima**  
-  
+2. **Bruno Brandão Costa Silva**  
 
-3. **Bruno Brandão Costa Silva**  
-  
+3. **Gabriel de Almeida Moraes**  
 
-4. **Gabriel de Almeida Moraes**
+4. **Leonardo Piauilino Marques**  
 
+5. **Petrucio Alberto P. De Lima**  
 
-5. **Alexia Gonçalves da Silva**
   
 
 ## Professor Orientador
@@ -38,12 +35,11 @@ Este projeto visa desenvolver um sistema de gerenciamento de finanças pessoais 
 
 ## Tecnologias Utilizadas
 
-- MySQL Connector/Python: Para integração com o banco de dados MySQL.
-- Flask ou Django: Para o desenvolvimento de uma interface web (se aplicável).
-- Pandas e Matplotlib: Para manipulação de dados e geração de gráficos.
-- bcrypt: Para criptografia de senhas.
-- Lucidchart: para o diagrama de casos de uso.
-
+- MySQL Connector/Python.
+- Framework - Django
+- Pandas e Matplotlib.
+- bcrypt.
+- Lucidchart.
 
 
 
