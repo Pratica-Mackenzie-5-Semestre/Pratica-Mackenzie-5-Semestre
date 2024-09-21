@@ -41,6 +41,9 @@ Este projeto visa desenvolver um sistema de gerenciamento de finanças pessoais 
 - bcrypt.
 - Lucidchart.
 
+## Projeto
+
+![PSW7](https://github.com/user-attachments/assets/360ca99f-dfdb-47b3-a107-eb59f441f638)
 
 
 
