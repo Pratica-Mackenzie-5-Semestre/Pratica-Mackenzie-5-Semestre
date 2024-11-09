@@ -45,7 +45,32 @@ Este projeto visa desenvolver um sistema de gerenciamento de finanças pessoais 
 
 ![PSW7](https://github.com/user-attachments/assets/360ca99f-dfdb-47b3-a107-eb59f441f638)
 
+# Configurações Iniciais
 
+1. Crie o ambiente virtual:
+   - Linux: `python3 -m venv venv`
+   - Windows: `python -m venv venv`
 
+2. Ative o ambiente virtual:
+   - Linux: `source venv/bin/activate`
+   - Windows: `venv\Scripts\Activate`
 
+   > **Observação**: Se houver erro de permissão, execute o comando abaixo no PowerShell e tente novamente:
+   > `Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned`
 
+3. Instale o Django e outras bibliotecas necessárias:
+   ```bash
+   pip install django
+   pip install pillow
+
+   
+  
+4. django-admin startproject core .
+python3 manage.py startapp perfil
+python3 manage.py startapp extrato
+
+5. instale o GTK3 (necessário para integrações):
+
+Acesse o link GTK3 para Windows e siga as instruções para instalação.
+
+6.  python3 manage.py startapp contas
