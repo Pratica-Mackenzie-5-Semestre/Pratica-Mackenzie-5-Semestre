@@ -31,7 +31,7 @@
                 <p class="fonte-destaque" style="color: red;">Contas vencidas</p>
                 <div class="card">
                   {% if not contas_vencidas %}
-                    <p class="fonte-destaque">Não há nenhuma conta vencida.</p>
+                    <p class="fonte-destaque">Não há conta vencida.</p>
                     {% else %}
                         {% for conta in contas_vencidas %}
                             <div class="linha-conta">
@@ -43,7 +43,7 @@
                                         Dia:{{conta.dia_pagamento}}
                                     </div>
                                     <div class="col-md text-center">
-                                        <a href="#" class="botao-principal">PAGAR</a>
+                                        <a href="#" class="botao-principal">Pagar</a>
                                     </div> 
                                 </div>
                             </div>
@@ -52,7 +52,7 @@
                 </div>
                 <br>
                 <br>
-                <p class="fonte-destaque" style="color: #E96363;">Contas próximas do vencimento</p>
+                <p class="fonte-destaque" style="color: #E96363;">Contas perto do vencimento</p>
                 <div class="card">
                     
                         {% for conta in contas_proximas_vencimento %}
@@ -65,7 +65,7 @@
                                         Dia: {{conta.dia_pagamento}}
                                     </div>
                                     <div class="col-md text-center">
-                                        <a href="#" class="botao-principal">PAGAR</a>
+                                        <a href="#" class="botao-principal">Pagar</a>
                                     </div> 
                                 </div>
                             </div>
@@ -90,7 +90,7 @@
                                         Dia: {{conta.dia_pagamento}}
                                     </div>
                                     <div class="col-md text-center">
-                                        <a href="#" class="botao-principal">PAGAR</a>
+                                        <a href="#" class="botao-principal">Pagar</a>
                                     </div> 
                                 </div>
                             </div>
