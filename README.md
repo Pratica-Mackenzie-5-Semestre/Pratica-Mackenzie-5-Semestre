@@ -71,6 +71,6 @@ python3 manage.py startapp extrato
 
 5. instale o GTK3 (necessário para integrações):
 
-Acesse o link GTK3 para Windows e siga as instruções para instalação.
+Acesse o link GTK3 para Windows e siga as instruções para instalação. https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases
 
 6.  python3 manage.py startapp contas
