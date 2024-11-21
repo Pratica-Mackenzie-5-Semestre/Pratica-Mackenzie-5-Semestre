@@ -74,3 +74,6 @@ python3 manage.py startapp extrato
 Acesse o link GTK3 para Windows e siga as instruções para instalação. https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases
 
 6.  python3 manage.py startapp contas
+
+7.  instale a biblioteca para converter HTML para PDF:
+pip install weasyprint
